@@ -7,7 +7,6 @@ import nltk
 import pandas as pd
 from math import log10 as log
 from operator import itemgetter
-import enhancement
 
 def iterable_df(size):
     """
@@ -138,6 +137,7 @@ if __name__ == "__main__":
 
     maxKeep = None
     if len(sys.argv) == 4:
+        import enhancement
         maxKeep = int(sys.argv[3])
 
     grammar_file = open(sys.argv[1], "r")

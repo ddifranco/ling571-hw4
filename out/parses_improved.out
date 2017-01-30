@@ -4,7 +4,7 @@
 (TOP (FRAG (X (WP What)(IN about))(PP (IN in)(NP_NNP Indianapolis)))(PUNC ?))
 (TOP (S (NP_PRP I)(VP (MD would)(VP (VB like)(S_VP (TO to)(VP (VP_PRIME (VB travel)(PP (IN from)(NP_NNP Indianapolis)))(PP (TO to)(NP_NNP Houston)))))))(PUNC .))
 
-(TOP (S_VP (VB List)(NP (NP_PRIME (NP_PRIME (NP (NP_PRIME (NNP American)(NNP Airlines))(NNS flights))(PP (IN from)(NP (NNP New)(NNP York))))(NNP Newark))(PP (TO to)(NP_NNP Nashville))))(PUNC .))
+(TOP (S_VP (S_VP_PRIME (VB List)(NP (NP_PRIME (NP (NP_PRIME (NNP American)(NNP Airlines))(NNS flights))(PP (IN from)(NP (NNP New)(NNP York))))(NNP Newark)))(PP (TO to)(NP_NNP Nashville)))(PUNC .))
 (TOP (SBARQ (WHNP_WHNP (WDT What)(NNS flights))(SQ (SQ_PRIME (SQ_PRIME (SQ_PRIME (VBP are)(NP_NP_EX there))(PP (IN from)(NP_NNP Nashville)))(PP (TO to)(NP_NNP Houston)))(NP (NP (NN tomorrow)(NN evening))(SBAR (WHNP_WDT that)(S_VP (VBP serve)(NP_NN dinner))))))(PUNC ?))
 (TOP (S (NP_PRP I)(VP (MD 'd)(VP (VB like)(S_VP (TO to)(VP (VBP fly)(NP (JJ next)(NNP Friday)))))))(PUNC .))
 (TOP (SBARQ (WHNP (WHNP_WDT Which)(PP (IN of)(NP_DT those)))(SQ_VP (VBP are)(ADJP_JJ nonstop)))(PUNC ?))
@@ -12,7 +12,7 @@
 (TOP (FRAG (X (WP What)(IN about))(NP (NNP Monday)(NN afternoon)))(PUNC ?))
 (TOP (S_VP (S_VP_PRIME (S_VP_PRIME (VB Show)(NP_PRP me))(NP (DT the)(NN dinner)))(NP (NP_PRIME (NP_NNS flights)(PP (IN from)(NP_NNP Baltimore)))(PP (TO to)(NP_NNP Oakland))))(PUNC .))
 (TOP (SBARQ (WHNP (WHNP_WDT Which)(PP (IN of)(NP_DT these)))(SQ_VP (VBP are)(NP (NN dinner)(NNS flights))))(PUNC ?))
-(TOP (SBARQ (WHNP_WHNP (WHADJP (WRB How)(JJ many))(NNS fares))(SQ (SQ_PRIME (SQ_PRIME (SQ_PRIME (VBP are)(NP_NP_EX there))(NP (NN one)(NN way)))(PP (IN from)(NP_NNP Tacoma)))(PP (TO to)(NP_NNP Montreal))))(PUNC ?))
+(TOP (SBARQ (WHNP_WHNP (WHADJP (WRB How)(JJ many))(NNS fares))(SQ (SQ_PRIME (SQ_PRIME (SQ_PRIME (VBP are)(NP_NP_EX there))(NP (CD one)(NN way)))(PP (IN from)(NP_NNP Tacoma)))(PP (TO to)(NP_NNP Montreal))))(PUNC ?))
 (TOP (S_VP (S_VP_PRIME (S_VP_PRIME (VB Show)(NP_PRP me))(NP (NP (NP_PRIME (DT the)(JJ first))(NN flight))(SBAR (WHNP_WDT that)(S_VP (VBZ arrives)(PP (IN in)(NP_NNP Toronto))))))(PP (IN from)(NP_NNP Cincinnati)))(PUNC .))
 (TOP (SQ (SQ_PRIME (VBZ Is)(NP (NP_PRIME (NP_PRIME (NP_PRIME (NNP United)(NNP Airlines))(NN flight))(CD four))(CD thirty)))(NP (NP_PRIME (DT a)(NN nonstop))(NN flight)))(PUNC ?))
 (TOP (S_VP (S_VP_PRIME (VB Show)(NP_PRP me))(NP (NP_PRIME (NP (NP_PRIME (NP_PRIME (DT the)(NN nonstop))(NN nonstop))(NNS flights))(PP (IN from)(NP_NNP Nashville)))(PP (TO to)(NP (NNP Saint)(NNP Louis)))))(PUNC .))
