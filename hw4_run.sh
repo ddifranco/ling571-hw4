@@ -19,7 +19,7 @@ time ./hw4_parser.sh $PCFG $TESTS $BASEOUT
 #Baseline Evaluation 
 $TOOLS/evalb -p $TOOLS/COLLINS.prm $GOLD $BASEOUT > $BASERES
 
-#Beam Parses (optionally specify n as last argument; defaults to n=x)
+#Beam Parses (n may be modified within hw4_parser_improved)
 time ./hw4_parser_improved.sh $PCFG $TESTS $BEAMOUT
 
 #Beam Evaluation
