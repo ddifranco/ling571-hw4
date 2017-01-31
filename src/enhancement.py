@@ -2,10 +2,6 @@
 
 import pdb
 
-#tuple1=[(1, 3), (3, 2), (2, 1)]
-#output = sorted(tuple1, key=lambda x: x[-1])
-#pdb.set_trace()
-
 def vetSubParses(nonTerminals, pointers, maxKeep, debug=False):
 
 	bestNonTerminals = []

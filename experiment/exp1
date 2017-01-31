@@ -1,0 +1,55 @@
+
+
+
+(TOP (FRAG (X (WP What)(IN about))(PP (IN in)(NP_NNP Indianapolis)))(PUNC ?))
+
+
+
+
+
+(TOP (SBARQ (WHNP (WHNP_WDT Which)(PP (IN of)(NP_DT those)))(SQ_VP (VBP are)(ADJP_JJ nonstop)))(PUNC ?))
+
+(TOP (FRAG (X (WP What)(IN about))(NP (NNP Monday)(NN afternoon)))(PUNC ?))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(TOP (FRAG (NP_NNP Monday)(PP (IN around)(NP_NN noon)))(PUNC .))
+
+(TOP (NP (NNP Friday)(NN night))(PUNC .))
+(TOP (FRAG (FRAG_PRIME (PP (IN From)(NP_NNP Atlanta))(PP (TO to)(NP_NNP Washington)))(NP (NNP D)(NNP C)))(PUNC .))
+
+
+(TOP (SBARQ (WHNP_WP What)(SQ (VBZ is)(NP (DT the)(NN price))))(PUNC ?))
+
+
+(TOP (SBARQ (WHNP_WP What)(SQ (VBZ is)(NP (DT the)(NN price))))(PUNC ?))
+
+
+(TOP (FRAG_NP (FRAG_NP_PRIME (NP_NNS Flights)(PP (IN from)(NP_NNP Ontario)))(PP (TO to)(NP_NNP Orlando)))(PUNC .))
+
+
+
+
+
+(TOP (FRAG_NP (JJS Cheapest)(NN fare))(PUNC .))
+
+
+
+
+
+
+
+(TOP (X_S_VP (X_S_VP_PRIME (VB Show)(NP_PRP me))(NP (DT the)(NNS fares)))(PUNC .))
+
+
